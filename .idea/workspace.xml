@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a201d0ac-a525-407b-a7dd-e9ded685b5ef" name="Changes" comment="start" />
+    <list default="true" id="a201d0ac-a525-407b-a7dd-e9ded685b5ef" name="Changes" comment="start">
+      <change beforePath="$PROJECT_DIR$/Desafios/florhtml/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/florhtml/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,6 +129,7 @@
       <workItem from="1730401581520" duration="2592000" />
       <workItem from="1730845172538" duration="1537000" />
       <workItem from="1730846732753" duration="666000" />
+      <workItem from="1732125491535" duration="749000" />
     </task>
     <task id="LOCAL-00001" summary="start">
       <option name="closed" value="true" />
